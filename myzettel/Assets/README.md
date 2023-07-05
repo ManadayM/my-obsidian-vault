@@ -1,0 +1,1 @@
+Assets and attachments are placed here.

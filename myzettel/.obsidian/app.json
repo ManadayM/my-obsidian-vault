@@ -1,0 +1,29 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "root",
+  "attachmentFolderPath": "Assets/Attachments",
+  "newFileFolderPath": "/",
+  "userIgnoreFilters": [
+    "Assets/Templates/",
+    "Assets/Excalidraw/Scripts/",
+    "Calendar/Events/",
+    "Calendar/",
+    "Work/"
+  ],
+  "showFrontmatter": false,
+  "spellcheck": false,
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "defaultViewMode": "source",
+  "fileSortOrder": "alphabetical",
+  "foldHeading": true,
+  "foldIndent": true
+}

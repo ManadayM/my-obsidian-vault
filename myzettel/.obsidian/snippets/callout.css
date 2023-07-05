@@ -1,0 +1,14 @@
+.callout[data-callout="memory"] {
+  --callout-color: 117, 201, 58;
+  --callout-icon: lucide-album;
+}
+
+.callout[data-callout="tweet"] {
+  --callout-color: 29, 161, 242;
+  --callout-icon: lucide-twitter;
+}
+
+.callout[data-callout="idea"] {
+  --callout-color: 227, 211, 41;
+  --callout-icon: lucide-lightbulb;
+}

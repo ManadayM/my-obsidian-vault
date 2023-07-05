@@ -1,0 +1,1 @@
+<% tp.web.random_picture("900x300", "tree,landscape,water,mountain") %> ^0b5ae2

@@ -1,0 +1,1 @@
+Dump all personal images for your daily notes in this directory. It helps to delete everything in a shot when you want to share your knowledge vault with someone else.

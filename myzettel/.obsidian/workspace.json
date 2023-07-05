@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "7591469b777270fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "b62b6fd73ae17ec1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90808e2b28a45d69",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5fbffc5342c27f12",
+    "type": "split",
+    "children": [
+      {
+        "id": "407a5cb8ac746bf9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cd909c99aec3508",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3fba919c40366568",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "SSD",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "39b9150fcc1e4c17",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 331.5
+  },
+  "right": {
+    "id": "cc2727e6f709ffd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f8b7b7e6410eeb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbf973833cb7a4ac",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "963a8dfc3d4a7c48",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4cdd091eb4d1044e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "61c6876d75f0dd29",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "90808e2b28a45d69",
+  "lastOpenFiles": [
+    "README.md",
+    "Obsidian - Add weather details to your Notes.md",
+    "Parcel.md",
+    "Monolith Service.md",
+    "Nest.js 101.md",
+    "Maths - Polynomials.md",
+    "macOS Setup Guide.md",
+    "Logarithm.md",
+    "Litmus Chaos.md",
+    "JavaScript - Promise.md",
+    "Java Private Constructor.md",
+    "Java Arrays.md",
+    "Interview Preparation.md",
+    "How did Alexander Rojas prepare for the interview at Google?.md",
+    "Host File.md",
+    "Graph Database.md",
+    "Google Camera Mod for LG.md",
+    "Go Language.md",
+    "Feynman Technique.md",
+    "CSS Flexbox Diagram.md",
+    "CSS Animation.md",
+    "CSS.md",
+    "Event Bus.md",
+    "Dynamic Connectivity Problem.md",
+    "Do you need to start or finish?.md",
+    "CSS Grid.md",
+    "Assets/Attachments/Singly Linked List - Link prev next to current node.png",
+    "Assets/Attachments/Screenshot 2022-08-24 at 11.29.05.png",
+    "Assets/Attachments/Screenshot 2022-08-02 at 15.29.43.png",
+    "Assets/Attachments/Screenshot 2022-08-02 at 15.24.39.png",
+    "Assets/Attachments/Screenshot 2022-07-29 at 13.15.43.png",
+    "Assets/Attachments/Screenshot 2022-07-19 at 10.45.57 PM.png",
+    "Assets/Attachments/Screenshot 2022-07-16 at 11.04.26 PM.png",
+    "Assets/Attachments/Screenshot 2022-07-16 at 1.03.49 PM.png",
+    "Assets/Attachments/Screenshot 2022-07-19 at 10.47.02 PM.png",
+    "Assets/Attachments/Pasted image 20220824115628.png",
+    "Books/Graph Databases - Neo4j by Oreilly.pdf",
+    "Assets/Docs/algorithms-part-1_00-intro-slides.pdf",
+    "Assets/Docs/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf",
+    "Assets/Docs/CI_DSA_study_guide.pdf",
+    "Assets/Docs/take-charge-of-your-time-by-ankur-warikoo.pdf",
+    "Assets/Docs/ResumeSayanMondal.pdf",
+    "Assets/Docs/release-It-design-and-deploy-production-ready-software.pdf",
+    "Assets/Docs/accessibility-for-everyone.pdf",
+    "Assets/Memories/20220729_191522-me-evening-walk.mp4",
+    "Books/Understanding The DOM.pdf"
+  ]
+}

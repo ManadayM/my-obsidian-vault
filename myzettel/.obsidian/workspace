@@ -1,0 +1,119 @@
+{
+  "main": {
+    "id": "7591469b777270fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "b56ae490d9662651",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Travel/2022/Haridwar/Home.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e585ae88eb872446",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0201f5c1c55baa7e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "e85f08040b439ca9",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e833368a1d108f6a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4582a6bacd638e3f",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "f0f0647f06f5ce60",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Travel/2022/Haridwar/Home.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7377a285f3f8f923",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Travel/2022/Haridwar/Home.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1941d542e50055b3",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Travel/2022/Haridwar/Home.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "b56ae490d9662651",
+  "lastOpenFiles": [
+    "Calendar/Daily Notes/2022-10-15.md",
+    "Travel/2022/Haridwar/Home.md",
+    "Calendar/Daily Notes/2022-10-14.md",
+    "Courses/GraphQL Bootcamp.md",
+    "Calendar/Daily Notes/2022-10-13.md",
+    "Courses/Typescript - The Complete Developer's Guide.md",
+    "Courses/Learn JAVA Programming - Beginner to Master.md",
+    "Courses/Docker and Kubernetes - The Complete Guide.md",
+    "Courses/Core Web Vitals by WebDev.md",
+    "Courses/Break a Monolith Application into Microservices.md"
+  ]
+}

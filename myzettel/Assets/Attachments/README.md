@@ -1,0 +1,1 @@
+The folder to dump all common and non-sensitive attachments.

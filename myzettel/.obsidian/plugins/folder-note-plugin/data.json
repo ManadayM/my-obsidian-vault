@@ -1,0 +1,9 @@
+{
+  "folderNoteHide": false,
+  "folderNoteType": "index",
+  "folderNoteName": "Home",
+  "folderNoteKey": "alt",
+  "folderNoteAutoRename": true,
+  "folderDelete2Note": false,
+  "folderNoteStrInit": "---\naliases: [{{FOLDER_NAME}}]\n---\n# {{FOLDER_NAME}} Overview\n {{FOLDER_BRIEF_LIVE}} \n"
+}

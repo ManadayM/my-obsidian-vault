@@ -1,0 +1,12 @@
+{
+  "theme": "system",
+  "translucency": false,
+  "baseFontSize": 17,
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "callout"
+  ],
+  "accentColor": "",
+  "monospaceFontFamily": "Cascadia Mono",
+  "interfaceFontFamily": "Inter"
+}

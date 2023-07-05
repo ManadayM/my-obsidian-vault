@@ -1,0 +1,1 @@
+Daily notes, weekly notes, monthly notes, and yearly recurring events.

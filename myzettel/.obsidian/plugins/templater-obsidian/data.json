@@ -1,0 +1,72 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Assets/Templates",
+  "templates_pairs": [
+    [
+      "getWeather",
+      "curl wttr.in/Vadodara?format=\"%l:+%c+%t+%w\\n\""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": true,
+  "shell_path": "",
+  "user_scripts_folder": "Assets/Scripts",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "/",
+      "template": "Assets/Templates/note.md"
+    },
+    {
+      "folder": "People",
+      "template": "Assets/Templates/people.md"
+    },
+    {
+      "folder": "Calendar/Daily Notes",
+      "template": "Assets/Templates/daily.md"
+    },
+    {
+      "folder": "Calendar/Weekly Notes",
+      "template": "Assets/Templates/weekly.md"
+    },
+    {
+      "folder": "Calendar/Monthly Notes",
+      "template": "Assets/Templates/monthly.md"
+    },
+    {
+      "folder": "Calendar/Events",
+      "template": "Assets/Templates/yearly-event.md"
+    },
+    {
+      "folder": "Meetings",
+      "template": "Assets/Templates/meeting.md"
+    },
+    {
+      "folder": "Courses",
+      "template": "Assets/Templates/course.md"
+    },
+    {
+      "folder": "MOC",
+      "template": "Assets/Templates/moc.md"
+    },
+    {
+      "folder": "Books",
+      "template": "Assets/Templates/book.md"
+    },
+    {
+      "folder": "Articles",
+      "template": "Assets/Templates/article.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "enabled_templates_hotkeys": [
+    "Assets/Templates/subscript.md",
+    "Assets/Templates/superscript.md",
+    "Assets/Templates/last-reviewed.md"
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}
