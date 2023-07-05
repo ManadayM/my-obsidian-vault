@@ -8,14 +8,10 @@ This is the Obsidian vault that I use for my personal knowledge management (PKM)
 
 I use limited Obsidian plugins to read my notes even without Obsidian in the future. Although, there are some amazing plugins that simplify the complex task of knowledge linking like **DataView**.
 
-I created this repo from my actual Obsidian vault that I use regularly. I have kept lots of non-personal notes in the root folder as it is to give you a more realistic picture of the overall folder structure and my usage of Obsidian. You may want to remove those notes from the root directory if they're irrelevant / not useful to you. Feel free to download/clone and tweak the templates as per your taste.
+I created this repo from my actual Obsidian vault that I use regularly. I have kept lots of non-personal notes in the root folder `myzettel` as is to give you a more realistic picture of the overall folder structure and my usage of Obsidian. You may want to remove those notes from the root directory if they're irrelevant / not useful to you. Feel free to download/clone and tweak the templates as per your taste.
 
 If you have any questions or suggestions use the **Issues** section. I answer them whenever I can.
 
 I hope this repo helps in improving your Obsidian PKM. 😇
 
 Sharing is caring! 🤝
-
----
-## Internal Links
-[[2023-07-05]]
