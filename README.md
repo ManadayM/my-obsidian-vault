@@ -1,8 +1,6 @@
-![tp.web.random_picture](https://images.unsplash.com/photo-1513282168129-97aac1a90027?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=300&ixid=MnwxfDB8MXxyYW5kb218MHx8dHJlZSxsYW5kc2NhcGUsd2F0ZXIsbW91bnRhaW58fHx8fHwxNjg4NTY2NjE5&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=900)
-
-(date:: 2023-07-05) | (time:: 19:46) | (weather:: Vadodara: ☁️   +32°C ↗16km/h)
-
 # 📚 Manaday's PKM using Obsidian
+
+![tp.web.random_picture](https://images.unsplash.com/photo-1513282168129-97aac1a90027?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=300&ixid=MnwxfDB8MXxyYW5kb218MHx8dHJlZSxsYW5kc2NhcGUsd2F0ZXIsbW91bnRhaW58fHx8fHwxNjg4NTY2NjE5&ixlib=rb-4.0.3&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=900)
 
 This is the Obsidian vault that I use for my personal knowledge management (PKM). After trying several note-taking tools like Evernote, OneNote, and Notion over the years I have settled down with Obsidian due to its simple and non-proprietary idea of using a `markdown` file format to store notes.
 
